@@ -1,4 +1,6 @@
 # Learn_Git-By_testing
 To learn git by testing (Learn_Git-By_testing)
 
-Testing gitHub changes
+Testing gitHub changes (to use fetch and merge together)
+
+Another change made here (to test pull, its a combination of fetch and merge)
